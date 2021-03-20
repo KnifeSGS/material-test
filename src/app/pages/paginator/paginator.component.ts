@@ -21,7 +21,7 @@ export class PaginatorComponent implements OnInit, OnDestroy {
     'email',
     'address'
   ];
-  pageSizes: number[] = [5, 10, 25, 50];
+  pageSizes: number[] = [5, 10, 25, 50, 100];
   dataSubscription!: Subscription;
 
   @ViewChild(MatPaginator, { static: true })

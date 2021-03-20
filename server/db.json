@@ -6,23 +6,10 @@
       "last_name": "Phillpotts",
       "gender": "Male",
       "email": "kphillpotts0@free.fr",
-      "address": "52 Ridgeway Center"
-    },
-    {
-      "id": 2,
-      "first_name": "Nollie",
-      "last_name": "Jopke",
-      "gender": "Bigender",
-      "email": "njopke1@google.de",
-      "address": "00 Cody Plaza"
-    },
-    {
-      "id": 3,
-      "first_name": "Roby",
-      "last_name": "Reddoch",
-      "gender": "Male",
-      "email": "rreddoch2@bigcartel.com",
-      "address": "72 Randy Hill"
+      "address": "52 Ridgeway Center",
+      "onBoarding": "2021-03-02T23:00:00.000Z",
+      "active": true,
+      "salary": 200000
     },
     {
       "id": 4,
@@ -31,14 +18,6 @@
       "gender": "Female",
       "email": "dmicallef3@mit.edu",
       "address": "26 Village Park"
-    },
-    {
-      "id": 5,
-      "first_name": "Ario",
-      "last_name": "Beaman",
-      "gender": "Polygender",
-      "email": "abeaman4@tripod.com",
-      "address": "44580 Tomscot Alley"
     },
     {
       "id": 6,

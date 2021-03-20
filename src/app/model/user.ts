@@ -5,4 +5,7 @@ export class User {
   gender: string = '';
   email: string = '';
   address: string = '';
+  onBoarding?: Date = new Date();
+  salary?: number = 0;
+  active?: boolean = false;
 }
